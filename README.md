@@ -35,7 +35,7 @@ E-mail: uncookedmoa7@gmail.com (Note: I don't check this often)
 
 ==============================
 
->:/OTHER FONTS BY UNCOOKEDMOA HALO FANS WILL BE INTERESTED IN/:<
+>:/OTHER FONTS BY UNCOOKEDMOA HALO FANS WILL BE INTERESTED IN/:
 
 - Halo 3 Font Fixed
 It's Will Turnbow's Halo 3 font, but with the question mark finally fixed. For too long have we worked with an upside down question mark in the Halo 3 font. No more.
