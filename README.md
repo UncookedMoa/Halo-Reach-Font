@@ -13,7 +13,7 @@ This font also includes updated "4" and "5" numbers, in accordance with the logo
 
 I apologize for any imperfections you may spot. This is the first font I've ever made (therefore, an amateur), and I never went to a calligraphy class. I am simply trying to provide my services by providing a new Halo font that should have already existed years ago. If any one would like to improve the font, feel free to do so. I have provided the starting point, now more experienced font creators can polish it up further.
 
-As with Will Turnbow's Halo font, this font is free to use. Use it however you'd like, whenever you'd like and feel free to modify it!
+As with Will Turnbow's Halo font, this font is free to use. Use it however you'd like, whenever you'd like. Feel free to modify it!
 
 ==============================
 
