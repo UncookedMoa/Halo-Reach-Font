@@ -42,5 +42,4 @@ It's Will Turnbow's Halo 3 font, but with the question mark finally fixed. For t
 
 - Halo 5 Font: 
 A completely new font based on 343's own version of the Halo font. Letters and numbers have all been overhauled, including the characters for the numbers "2" and "3", for hypothetical "Anniversary" designs. The number "2" is not lifted from Halo 2 Anniversary, however, in favor of a custom design. I personally felt that the "2" in Halo 2 Anniversary's trailers was out of place for the Halo font, looking as though it was a different font entirely.
-
 While bearing many similarities, the prime difference between Halo Reach and 5's logos is that Halo Reach's logo is more "pointy" while Halo 5's is sleeker, with more diagonal lines. This Halo 5 font is of my own design, and was made after some practice with the Halo Reach font. As such, I personally feel this was better made than the Reach font.
